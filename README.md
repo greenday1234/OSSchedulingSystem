@@ -1,2 +1,2 @@
-# OSSchedulingSystem
+# OS SchedulingSystem
 OS Scheduling System
